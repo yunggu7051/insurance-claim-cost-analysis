@@ -51,12 +51,12 @@ The final Tableau dashboard includes three views:
 - Outpatient claims contributed the highest total claim cost among claim types.
 
 ## Files
-- `Claims Analytics.sql` — SQL queries used for data preparation and summary tables
-- `enhanced_health_insurance_claims.csv` — source dataset
-- `yearly_claim_status_cost.csv` — yearly summary table
-- `provider_cost_summary.csv` — provider specialty summary table
-- `claim_type_status_cost.csv` — claim type summary table
-- `insurance_claim_cost_analysis.twbx` — final Tableau dashboard workbook
+- [`Claims Analytics.sql`](Claims%20Analytics.sql) — SQL queries used for data preparation and summary tables
+- [`enhanced_health_insurance_claims.csv`](enhanced_health_insurance_claims.csv) — source dataset
+- [`yearly_claim_status_cost.csv`](yearly_claim_status_cost.csv) — yearly summary table
+- [`provider_cost_summary.csv`](provider_cost_summary.csv) — provider specialty summary table
+- [`claim_type_status_cost.csv`](claim_type_status_cost.csv) — claim type summary table
+- [`insurance_claim_cost_analysis.twbx`](insurance_claim_cost_analysis.twbx) — final Tableau dashboard workbook
 
 ## Notes
 This project uses a synthetic insurance claims dataset for portfolio analysis and dashboard development purposes.
