@@ -1,0 +1,16 @@
+ProviderSpecialty,claimStatus,total_cases,specialty_total_cases,case_rate,total_cost,specialty_total_cost,cost_rate
+Cardiology,Approved,311,907,34.29,1615310.72,4549260.15,35.51
+Cardiology,Denied,312,907,34.40,1533559.92,4549260.15,33.71
+Cardiology,Pending,284,907,31.31,1400389.51,4549260.15,30.78
+"General Practice",Approved,280,880,31.82,1427069.20,4384549.77,32.55
+"General Practice",Denied,312,880,35.45,1582875.91,4384549.77,36.10
+"General Practice",Pending,288,880,32.73,1374604.66,4384549.77,31.35
+Neurology,Approved,307,865,35.49,1567801.92,4303188.87,36.43
+Neurology,Denied,296,865,34.22,1434638.43,4303188.87,33.34
+Neurology,Pending,262,865,30.29,1300748.52,4303188.87,30.23
+Orthopedics,Approved,325,893,36.39,1631364.49,4408874.73,37.00
+Orthopedics,Denied,271,893,30.35,1388314.60,4408874.73,31.49
+Orthopedics,Pending,297,893,33.26,1389195.64,4408874.73,31.51
+Pediatrics,Approved,299,955,31.31,1556563.82,4918043.88,31.65
+Pediatrics,Denied,321,955,33.61,1611505.32,4918043.88,32.77
+Pediatrics,Pending,335,955,35.08,1749974.74,4918043.88,35.58
