@@ -3,7 +3,7 @@
 SQL and Tableau project analyzing insurance claim cost patterns by claim status, provider specialty, and claim type from 2022 to 2024.
 
 ## Overview
-This project analyzes insurance claims data from 2022 to 2024 to explore claim cost patterns across claim status, provider specialty, and claim type. The goal was to build a claims-focused portfolio project that demonstrates SQL-based data preparation and Tableau dashboard design.
+This project analyzes insurance claims data from 2022 to 2024 to examine claim cost patterns across claim status, provider specialty, and claim type. Using SQL for data preparation and Tableau for visualization, the analysis highlights annual cost distribution and claims reporting trends.
 
 ## Objective
 This analysis was designed to answer three main questions:
